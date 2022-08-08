@@ -12,8 +12,12 @@
 
 <body>
     <header>
-        <button src="button"><img src="./img/logo atualizado.png"></button>
-        <li><a>Home</a></li>
+        <a href="../../index.html"><button src="button"><img src="./img/logo atualizado.png"></button></a>
+        <ul>
+                <li><a href="../View/login.html">Login</a></li>
+                <li><a href="../View/registro.html">Registre-se</a></li>
+                <li><a href="../View/perfil.html">Perfil</a></li>
+            </ul>
     </header>
     <main class="content">
         <article class="flex justify-center items-center w-full h-screen">
