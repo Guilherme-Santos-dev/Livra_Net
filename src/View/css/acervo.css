@@ -1,0 +1,55 @@
+
+body{
+    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    font-family: 'calibri', cursive;
+}
+
+h1{
+    font-size: 50px;
+    color: #ffffff;
+    text-align: center;
+
+}
+h2{
+    font-size: 50px;
+    color: #ffffff;
+    text-align: center;
+}
+
+img{ 
+    position: relative;
+    width: 300px;
+
+}
+header {
+    background-color: navy;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header ul {
+    position: relative;
+    display: flex;
+}
+
+header ul li {
+    list-style: none;
+    
+}
+
+header ul li a {
+    display: inline-block;
+    color: white;
+    font-weight: 400;
+    margin-right: 300px;
+    text-decoration: none;
+}
+
+.content .textBox h2 {
+    color: #333;
+    font-size: 4em;
+    line-height: 1.4em;
+    font-weight: 500;
+
+}
